@@ -1,8 +1,4 @@
-Haan bhai 😄 samajh gaya — **ek hi README mein sab kuch properly attached chahiye**: About + Skills + Projects + Goals + Learning + Stats + Certifications + Connect + Quote, sab ek cohesive professional profile mein.
 
-Purana README **poora replace** karke ye wala use karo:
-
-````markdown
 # 👋 Hi, I'm Sachin Kumar
 
 <p align="center">
@@ -244,4 +240,3 @@ Deployment
 ⭐ **Thanks for visiting my profile!**
 
 </p>
-```
